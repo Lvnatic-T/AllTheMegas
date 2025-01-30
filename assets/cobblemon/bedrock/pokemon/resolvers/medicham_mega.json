@@ -5,25 +5,25 @@
     {
       "aspects": ["mega"],
       "model": "cobblemon:mega_medicham.geo",
-      "texture": "cobblemon:textures/pokemon/0308_medicham/mega_medicham.png",
+      "texture": "cobblemon:textures/pokemon/medicham/mega_medicham.png",
       "layers": []
     },
     {
       "aspects": ["mega","shiny"],
       "model": "cobblemon:mega_medicham.geo",
-      "texture": "cobblemon:textures/pokemon/0308_medicham/mega_medicham_shiny.png",
+      "texture": "cobblemon:textures/pokemon/medicham/mega_medicham_shiny.png",
       "layers": []
     },
     {
       "aspects": ["mega","female"],
       "model": "cobblemon:mega_medicham.geo",
-      "texture": "cobblemon:textures/pokemon/0308_medicham/mega_medicham.png",
+      "texture": "cobblemon:textures/pokemon/medicham/mega_medicham.png",
       "layers": []
     },
     {
       "aspects": ["mega","shiny","female"],
       "model": "cobblemon:mega_medicham.geo",
-      "texture": "cobblemon:textures/pokemon/0308_medicham/mega_medicham_shiny.png",
+      "texture": "cobblemon:textures/pokemon/medicham/mega_medicham_shiny.png",
       "layers": []
     }
   ]
