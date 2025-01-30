@@ -1,0 +1,6 @@
+## Changelog v0.9:
+
+Removed all conflicting Pokemon spawns  
+Removed all conflicting Pokemon textures, posers, models, animations, species files  
+Edited some species files that didn't follow the "X_mega" naming sceme  
+    removed all mentions/forms aside from megas
