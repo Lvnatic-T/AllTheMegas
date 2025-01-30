@@ -12,9 +12,9 @@ Edited some species files that didn't follow the "X_mega" naming sceme
 ____________________________________________________________________________________________________
 ## Known bugs:
 
->Altaria not mega evolving  
->Medicham not mega evolving  
->Rayquaza not mega evolving
+Altaria not mega evolving  
+Medicham not mega evolving  
+Rayquaza not mega evolving
 ____________________________________________________________________________________________________
 ## Todo List:
 
