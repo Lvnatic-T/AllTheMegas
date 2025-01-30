@@ -3,13 +3,13 @@
   "order": 1,
   "variations": [
     {
-      "aspects": ["mega"],
+      "aspects": ["mega","female"],
       "model": "cobblemon:mega_medicham.geo",
       "texture": "cobblemon:textures/pokemon/medicham/mega_medicham.png",
       "layers": []
     },
     {
-      "aspects": ["mega","shiny"],
+      "aspects": ["mega","shiny","female"],
       "model": "cobblemon:mega_medicham.geo",
       "texture": "cobblemon:textures/pokemon/medicham/mega_medicham_shiny.png",
       "layers": []
