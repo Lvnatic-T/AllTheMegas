@@ -28,34 +28,10 @@ ________________________________________________________________________________
 
 ~~Altaria not mega evolving~~  
 ~~Medicham not mega evolving~~  
-Rayquaza not mega evolving
+Rayquaza not mega evolving (Flourish & ATM's implementation make this impossible, so if this ever integrates into ATM, easy needs to remove his rayquaza and megarayquaza, working on a easy to implement version/branch (v1.0b))
 ____________________________________________________________________________________________________
 ## Todo List:
 
 Fix known bugs (would love your help)  
 ~~Change species to resolvers~~
 ____________________________________________________________________________________________________
-## Changelogs: 
-
-### v0.9c:
-
-Fixed Mega Medicham
-____________________________________________________________________________________________________
-### v0.9b:
-
-Fixed Mega Altaria  
-Fixed Mega Medicham (male)   
-Changed the whole folder structure to mimic ATMs
-____________________________________________________________________________________________________
-### v0.9a:
-
-Renamed the pack  
-Changed the pack.png  
-Started public beta release
-____________________________________________________________________________________________________
-### v0.9:
-
-Removed all conflicting Pokemon spawns  
-Removed all conflicting Pokemon textures, posers, models, animations, species files  
-Edited some species files that didn't follow the "X_mega" naming sceme  
-    removed all mentions/forms aside from megas
