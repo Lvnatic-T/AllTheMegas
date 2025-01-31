@@ -28,7 +28,6 @@ ________________________________________________________________________________
 
 ~~Altaria not mega evolving~~  
 ~~Medicham not mega evolving~~  
-Female Medicham not mega evolving/texture breaking  
 Rayquaza not mega evolving
 ____________________________________________________________________________________________________
 ## Todo List:
@@ -38,6 +37,10 @@ Fix known bugs (would love your help)
 ____________________________________________________________________________________________________
 ## Changelogs: 
 
+### v0.9c:
+
+Fixed Mega Medicham
+____________________________________________________________________________________________________
 ### v0.9b:
 
 Fixed Mega Altaria  
