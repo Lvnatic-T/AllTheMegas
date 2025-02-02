@@ -4,12 +4,14 @@ Thanks to the amazing work of Soul and his mates, who made all the good looking 
 ____________________________________________________________________________________________________
 ## Compatibility & Dependencies:
 
-- Cobblemon 1.6 (Since ATM isn't updated for 1.6.1 _yet_)
-- AllTheMons 2.1 (and the [Gitlab](https://gitlab.com/allthemons/allthemons) version)
-- Fabric Permissions API 0.3.1 (Polymer dependency)
-- Polymer 0.9.18 (Flourish dependency)
-- Flourish 1.4.4 (Sorry NeoForge users) 
+- Fabric (Sorry NeoForge users)
+- Cobblemon **1.6** (Since ATM isn't updated for 1.6.1 _yet_)
+- AllTheMons **2.1** (~~and the [Gitlab](https://gitlab.com/allthemons/allthemons) version~~)
+- Fabric Permissions API **0.3.1** (Polymer dependency)
+- Polymer **0.9.18** (Flourish dependency)
+- Flourish **1.4.4**  
   - To get this newer version [join the cobblemon discord](https://discord.com/invite/cobblemon), then click [here](https://discord.com/channels/934267676354834442/1311740597119352893/1334187731605000243)
+- REI (optional but highly recommended)
 ____________________________________________________________________________________________________
 ## Installation:
 
@@ -17,6 +19,19 @@ ________________________________________________________________________________
 2. Add this pack to your resourcepacks `(\resourcepacks)`
 3. Add this pack to your worlds datapack `(\saves\[YOURWORLDNAME]\datapacks)`
 4. Enable the resourcepack ingame `(ESC - Resource Packs)`
+____________________________________________________________________________________________________
+### How find all the recipes:
+- In REI search for `Nether Star` and `right click` or press `u`
+  - It'll show the recipe for the Mega Bracelet
+- Now you can press `r` on the Mega Bracelet to see the recipes for all the Mega Stones
+____________________________________________________________________________________________________
+### How Megas work:
+- It functions just like in the original pokemon games, 
+  - Only in battles 
+  - Only one mon per battle
+  - Mon has to be holding their respective Mega Stone 
+- You have to have the Mega Bracelet in your off hand (can be changed in flourish's config, more info [here](https://modrinth.com/mod/flourish-cobblemon))
+- While choosing an attack in battle, you have a new button that (once clicked) will mega evolve your pokemon starting on the next turn
 ____________________________________________________________________________________________________
 ## Something ain't working? - Some helpful sources:
 
