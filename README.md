@@ -7,11 +7,18 @@ ________________________________________________________________________________
 - Fabric (Sorry NeoForge users)
 - Cobblemon **1.6** (Since ATM isn't updated for 1.6.1 _yet_)
 - AllTheMons **2.1** (~~and the [Gitlab](https://gitlab.com/allthemons/allthemons) version~~)
-- Fabric Permissions API **0.3.1** (Polymer dependency)
-- Polymer **0.9.18** (Flourish dependency)
+- REI (optional but highly recommended)
+
+### Flourish Version
+
 - Flourish **1.4.4**  
   - To get this newer version [join the cobblemon discord](https://discord.com/invite/cobblemon), then click [here](https://discord.com/channels/934267676354834442/1311740597119352893/1334187731605000243)
-- REI (optional but highly recommended)
+- Polymer **0.9.18** (Flourish dependency)
+- Fabric Permissions API **0.3.1** (Polymer dependency)
+
+### CobblemonMegas Version
+- CobblemonMegas release **1.3.5-1.6.0-1.21.1** (Get it [here](https://github.com/jornadascobblemon/CobblemonMegas/releases/download/1.3.5-1.6.0-1.21.1/CobblemonMegas-fabric-1.3.5-1.6.0+1.21.1.jar))
+- Architectury API **13.0.8** (CobblemonMegas dependency)
 ____________________________________________________________________________________________________
 ## Installation:
 
@@ -40,13 +47,5 @@ ________________________________________________________________________________
 - Cobblemon issue? - Again, join their [discord](https://discord.com/invite/cobblemon) and ask around! 
 ____________________________________________________________________________________________________
 ## Known bugs:
-
-~~Altaria not mega evolving~~  
-~~Medicham not mega evolving~~  
 Rayquaza not mega evolving (Flourish & ATM's implementation make this impossible, so if this ever integrates into ATM, easy needs to remove his rayquaza and megarayquaza, working on a easy to implement version/branch (v1.0b))
-____________________________________________________________________________________________________
-## Todo List:
-
-Fix known bugs (would love your help)  
-~~Change species to resolvers~~
 ____________________________________________________________________________________________________
